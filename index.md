@@ -2,12 +2,34 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Research
+* * *
 
-[Research](./another-page.md).
+[Research 1](https://docs.google.com/document/d/1z40uNi9uEBOa_cpkDZtH6WBWq85awPQIfwilGruqMTA/edit?usp=sharing).
 
-[MileStones](./milestone-page.md).
+[Research 2](https://docs.google.com/document/d/1tJAkROWImookej_sDUiQ6TN6QDxwqbNeyRH02KlGsuA/edit?usp=sharing).
 
+[Research 3](https://docs.google.com/document/d/1I_m_I4wJfTXYx8keZge_PhEK2N35kuvvpB799RRqFIk/edit?usp=sharing).
+
+[Research 4](https://docs.google.com/document/d/1HD53NVPIw9FPdlVEj7f-Obwp94ozukaTGKnWgrsyou0/edit?usp=sharing).
+
+
+
+# MileStones
+* * *
+
+## Milestone 1
+
+[Milestone1](./Milestone1.pdf). This is a downloadable word document.
+
+
+## Milestone 2
+
+[Milestone2](https://docs.google.com/document/d/1B82dB6rPXMC3dKqDq5iS3Ek_2H6csvGiNURLtLO_BuQ/edit?usp=sharing).
+
+
+# Resume
+* * *
 [Resume](./Resume.pdf)
 
 There should be whitespace between paragraphs.
