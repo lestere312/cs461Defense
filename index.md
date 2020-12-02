@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.md).
+[Research](./another-page.md).
 
 [MileStones](./milestone-page.md).
 

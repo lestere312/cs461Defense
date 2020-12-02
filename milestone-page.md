@@ -7,7 +7,7 @@ layout: default
 
 ## Milestone 1
 
-[Milestone1](./milestone1.docx).
+[Milestone1](./Milestone1.docx).
 
 I. OSU CS Applied Plan Portal
 A.	Our stake holders in the project would be Oregon State as an organization as well as the students who will hopefully benefit from its implementation. Oregon state would want an app that they can use in the future and update. If the app is successful for applied CS majors Oregon State could consider using the same application for other majors. With the goal of an average student being able to use the app it is also important that those with technical abilities can also access useful information that may not otherwise be available to them, adding extra value.
