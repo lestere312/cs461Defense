@@ -2,14 +2,12 @@
 layout: default
 ---
 
-# MileStones
+# ~>MileStones<~
 
 
 ## Milestone 1
 
-This is a downloadable word document.
-
-[Milestone1](./Milestone1.docx).
+[Milestone1](./Milestone1.docx). This is a downloadable word document.
 
 
 ## Milestone 2
