@@ -68,14 +68,18 @@ layout: default
 
 ###### Header 6
 
-| Week         | head two          | three |
+| Week         | Research          | Milestone |
 |:-------------|:------------------|:------|
-| 1            | good swedish fish | nice  |
-| 2            | good and plenty   | nice  |
-| 3            | good `oreos`      | hmm   |
-| 4            | good `zoute` drop | yumm  |
-| 5            | | |
-
+| 1            |  |   |
+| 2            |    | [Milestone1](./Milestone1.pdf).(PDF)  |
+| 3            |      |    |
+| 4            |  |   |
+| 5            | [Research 1](https://docs.google.com/document/d/1z40uNi9uEBOa_cpkDZtH6WBWq85awPQIfwilGruqMTA/edit?usp=sharing).(GoogleDoc) | [Milestone2](https://docs.google.com/document/d/1B82dB6rPXMC3dKqDq5iS3Ek_2H6csvGiNURLtLO_BuQ/edit?usp=sharing).(GoogleDoc) |
+| 6            | | |
+| 7            | | |
+| 8            | | |
+| 9            | | |
+| 10            | | |
 ### There's a horizontal rule below this.
 
 * * *
