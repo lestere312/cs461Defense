@@ -75,7 +75,7 @@ layout: default
 | 3            |      |    |
 | 4            |  |   |
 | 5            | [Research 1](https://docs.google.com/document/d/1z40uNi9uEBOa_cpkDZtH6WBWq85awPQIfwilGruqMTA/edit?usp=sharing).(GoogleDoc) | [Milestone2](https://docs.google.com/document/d/1B82dB6rPXMC3dKqDq5iS3Ek_2H6csvGiNURLtLO_BuQ/edit?usp=sharing).(GoogleDoc) |
-| 6            | | |
+| 6            | [Research 2](https://docs.google.com/document/d/1tJAkROWImookej_sDUiQ6TN6QDxwqbNeyRH02KlGsuA/edit?usp=sharing).(GoogleDoc) | |
 | 7            | | |
 | 8            | | |
 | 9            | | |
