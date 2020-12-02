@@ -20,7 +20,7 @@ layout: default
 
 ## Milestone 1
 
-[Milestone1](./Milestone1.pdf). This is a downloadable word document.
+[Milestone1](./Milestone1.pdf).(PDF)
 
 
 ## Milestone 2
@@ -30,7 +30,7 @@ layout: default
 
 # Resume
 * * *
-[Resume](./Resume.pdf)
+[Resume](./Resume.pdf)(PDF)
 
 There should be whitespace between paragraphs.
 
