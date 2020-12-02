@@ -8,7 +8,4 @@ layout: default
 
 [Research 2](https://docs.google.com/document/d/1tJAkROWImookej_sDUiQ6TN6QDxwqbNeyRH02KlGsuA/edit?usp=sharing).
 
-
-_yay_
-
 [back](./)
