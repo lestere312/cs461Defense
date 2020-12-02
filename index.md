@@ -2,6 +2,32 @@
 layout: default
 ---
 
+
+# Resume
+* * *
+[Resume](./Resume.pdf)(PDF)
+
+>Resume Written asdfkdfbjs
+
+
+
+# MileStones
+* * *
+
+## Milestone 1
+
+[Milestone1](./Milestone1.pdf).(PDF)
+
+>sdfsfadf
+
+## Milestone 2
+
+[Milestone2](https://docs.google.com/document/d/1B82dB6rPXMC3dKqDq5iS3Ek_2H6csvGiNURLtLO_BuQ/edit?usp=sharing).(GoogleDoc)
+
+>dsdgsdf
+
+
+
 # Research
 * * *
 
@@ -23,51 +49,10 @@ layout: default
 
 
 
-# MileStones
-* * *
-
-## Milestone 1
-
-[Milestone1](./Milestone1.pdf).(PDF)
-
->sdfsfadf
-
-## Milestone 2
-
-[Milestone2](https://docs.google.com/document/d/1B82dB6rPXMC3dKqDq5iS3Ek_2H6csvGiNURLtLO_BuQ/edit?usp=sharing).(GoogleDoc)
-
->dsdgsdf
-
-
-# Resume
-* * *
-[Resume](./Resume.pdf)(PDF)
-
->Resume Written asdfkdfbjs
 
 
 
 
-
-
-
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
 
 #### Header 4
 
