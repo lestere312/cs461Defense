@@ -53,51 +53,12 @@ layout: default
 
 
 
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| Week         | Research          | Milestone |
-|:-------------|:------------------|:------|
-| 1            |  |   |
-| 2            |    | [Milestone1](./Milestone1.pdf).(PDF)  |
-| 3            |      |    |
-| 4            |  |   |
-| 5            | [Research 1](https://docs.google.com/document/d/1z40uNi9uEBOa_cpkDZtH6WBWq85awPQIfwilGruqMTA/edit?usp=sharing).(GoogleDoc) | [Milestone2](https://docs.google.com/document/d/1B82dB6rPXMC3dKqDq5iS3Ek_2H6csvGiNURLtLO_BuQ/edit?usp=sharing).(GoogleDoc) |
-| 6            | [Research 2](https://docs.google.com/document/d/1tJAkROWImookej_sDUiQ6TN6QDxwqbNeyRH02KlGsuA/edit?usp=sharing).(GoogleDoc) | |
-| 7            | | |
-| 8            | | |
-| 9            | | |
-| 10            | | |
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
 1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
+2.  Item two
+3.  Item three
+4.  Item four
+5.  das
+6.  sda
 ### And a nested list:
 
 - level 1 item
