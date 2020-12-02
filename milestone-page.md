@@ -6,12 +6,8 @@ layout: default
 * * *
 
 ## Milestone 1
-```html
-<object data="Milestone1.pdf" type="application/pdf" width="100%" height="100%">
-  <p>Alternative text - include a link <a href="Milestone1.pdf">to the PDF!</a></p>
-</object>
-```
-[Milestone1](./Milestone1.docx). This is a downloadable word document.
+
+[Milestone1](./Milestone1.pdf). This is a downloadable word document.
 
 
 ## Milestone 2
