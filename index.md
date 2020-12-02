@@ -5,13 +5,21 @@ layout: default
 # Research
 * * *
 
-[Research 1](https://docs.google.com/document/d/1z40uNi9uEBOa_cpkDZtH6WBWq85awPQIfwilGruqMTA/edit?usp=sharing).
+[Research 1](https://docs.google.com/document/d/1z40uNi9uEBOa_cpkDZtH6WBWq85awPQIfwilGruqMTA/edit?usp=sharing).(GoogleDoc)
 
-[Research 2](https://docs.google.com/document/d/1tJAkROWImookej_sDUiQ6TN6QDxwqbNeyRH02KlGsuA/edit?usp=sharing).
+>sdfsdf
 
-[Research 3](https://docs.google.com/document/d/1I_m_I4wJfTXYx8keZge_PhEK2N35kuvvpB799RRqFIk/edit?usp=sharing).
+[Research 2](https://docs.google.com/document/d/1tJAkROWImookej_sDUiQ6TN6QDxwqbNeyRH02KlGsuA/edit?usp=sharing).(GoogleDoc)
 
-[Research 4](https://docs.google.com/document/d/1HD53NVPIw9FPdlVEj7f-Obwp94ozukaTGKnWgrsyou0/edit?usp=sharing).
+>sdfsdf
+
+[Research 3](https://docs.google.com/document/d/1I_m_I4wJfTXYx8keZge_PhEK2N35kuvvpB799RRqFIk/edit?usp=sharing).(GoogleDoc)
+
+>sdfsdf
+
+[Research 4](https://docs.google.com/document/d/1HD53NVPIw9FPdlVEj7f-Obwp94ozukaTGKnWgrsyou0/edit?usp=sharing).(GoogleDoc)
+
+>sdfsdf
 
 
 
@@ -22,29 +30,27 @@ layout: default
 
 [Milestone1](./Milestone1.pdf).(PDF)
 
+>sdfsfadf
 
 ## Milestone 2
 
-[Milestone2](https://docs.google.com/document/d/1B82dB6rPXMC3dKqDq5iS3Ek_2H6csvGiNURLtLO_BuQ/edit?usp=sharing).
+[Milestone2](https://docs.google.com/document/d/1B82dB6rPXMC3dKqDq5iS3Ek_2H6csvGiNURLtLO_BuQ/edit?usp=sharing).(GoogleDoc)
+
+>dsdgsdf
 
 
 # Resume
 * * *
 [Resume](./Resume.pdf)(PDF)
 
-There should be whitespace between paragraphs.
+>Resume Written asdfkdfbjs
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-## Header 2
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+
+
 
 ### Header 3
 
