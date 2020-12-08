@@ -7,7 +7,7 @@ layout: default
 * * *
 [Resume](./Resume.pdf)(PDF)
 
->Resume Written asdfkdfbjs
+
 
 
 
@@ -18,7 +18,9 @@ layout: default
 
 [Milestone1](./Milestone1.pdf).(PDF)
 
->sdfsfadf
+>Explaining three different options I put on the top of my application
+>list. I brain stormed the stakeholders and perceived and unperceived 
+>challenges the project may have.
 
 ## Milestone 2
 
