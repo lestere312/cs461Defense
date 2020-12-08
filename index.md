@@ -14,15 +14,11 @@ layout: default
 # MileStones
 * * *
 
-## Milestone 1
-
 [Milestone1](./Milestone1.pdf).(PDF)
 
 >Explaining three different options I put on the top of my application
 >list. I brain stormed the stakeholders and perceived and unperceived
 >challenges the project may have.
-
-## Milestone 2
 
 [Milestone2](./Milestone2.pdf).(PDF)
 
@@ -53,7 +49,7 @@ layout: default
 # WebSite
 * * *
 
-[Website](http://zephyr-dev.herokuapp.com/).temptemptemp
+[Website](http://zephyr-dev.herokuapp.com/).
 
 [Website Github](https://github.com/ZephyrNanotransaction/Nanotransaction_Website).
 
