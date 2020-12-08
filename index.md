@@ -19,12 +19,12 @@ layout: default
 [Milestone1](./Milestone1.pdf).(PDF)
 
 >Explaining three different options I put on the top of my application
->list. I brain stormed the stakeholders and perceived and unperceived 
+>list. I brain stormed the stakeholders and perceived and unperceived
 >challenges the project may have.
 
 ## Milestone 2
 
-[Milestone2](https://docs.google.com/document/d/1B82dB6rPXMC3dKqDq5iS3Ek_2H6csvGiNURLtLO_BuQ/edit?usp=sharing).(GoogleDoc)
+[Milestone2](./Milestone2.pdf).(PDF)
 
 >dsdgsdf
 
