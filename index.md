@@ -52,7 +52,14 @@ layout: default
 
 [Research 3](./research3.pdf).
 
->sdfsdf
+>Vitalik Buterin created ether and Ethereum and is the singular public figure
+> that has created and maintained a successful cryptocurrency. The creator of
+> bitcoin uses a pseudonym and no one knows their true identity. He mentions
+> many of the philosophical aspects of creating a dementalized currency, and
+> mentions how he believes it is less likely that fiat currencies will fail
+> since he start questioning Austrian economics. An insider perspective is
+> hard to come by in this field so listening to his outlook for the future
+> is insightful.
 
 [Research 4](./research4.pdf).
 
