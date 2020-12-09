@@ -5,7 +5,7 @@ layout: default
 
 # Resume
 * * *
-[Resume](./Resume.pdf)(PDF)
+[Resume](./Resume.pdf)
 
 
 
@@ -78,7 +78,7 @@ layout: default
 7.  [Research 3](https://docs.google.com/document/d/1I_m_I4wJfTXYx8keZge_PhEK2N35kuvvpB799RRqFIk/edit?usp=sharing).(GoogleDoc)
 8.  [Research 4](https://docs.google.com/document/d/1HD53NVPIw9FPdlVEj7f-Obwp94ozukaTGKnWgrsyou0/edit?usp=sharing).(GoogleDoc)
 9.  Group Presentation
-10. Future Goals
+10. Fall Term Retrospective
 
 
 # WebSite
@@ -92,10 +92,13 @@ layout: default
 # Team Reviews
 * * *
 
-## [Review1](./Lester_survey.pdf)
+### [Review1](./Lester_survey.pdf)
 
-## [Review2](./Eric_Lester_Critique.pdf)
+### [Review2](./Eric_Lester_Critique.pdf)
 
-## [Review3](./EL_Peer_Review_KE.pdf)
+### [Review3](./EL_Peer_Review_KE.pdf)
 
-## Average Score : 8.33
+### Average Score : 8.33
+
+# Future Outlook
+* * *
