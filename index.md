@@ -36,7 +36,7 @@ layout: default
 > into the business and technically aspects of blockchain. Limitless VIP was
 > essentially a scam, which was a good example of what many think of this
 > sector. Maker DAO on the other hand was an interesting ecosystem of different
-> types of blockchains for functionality like stable coins and coins that holder
+> types of blockchains for functionality like stable coins and coins that hold
 > voting rights towards future decisions.
 
 ## [Research 2](./research2.pdf).
@@ -100,5 +100,23 @@ layout: default
 
 ### Average Score : 8.33
 
+# Team Role
+
+> I primarily did research having to do with business and economic aspects of
+> our project since I saw those decisions needed to be made before moving forward
+> into technical aspects. I had critiques of how blockchain interacted with our
+> project to make a full fledge business model from the research I had done and
+> was vocal in changing our scope or project. I created several ideas of
+> alternative projects before as a team we decided to move forward with the
+> original project without blockchain being involved.
+
 # Future Outlook
 * * *
+
+> Moving forward we will be leaving behind the blockchain research we have done
+> since the scope of the project would be too large. We have now focused in
+> on the original functionality of a micro payment system and have looked into
+> possible architectures to use. We have agreed on a node application with other
+> infrastructure to enhance its usability. Over the break we are to look into
+> possible frameworks and learn more about good implementation of our kind of
+> project.
