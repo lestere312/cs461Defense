@@ -41,7 +41,14 @@ layout: default
 
 [Research 2](./research2.pdf).
 
->sdfsdf
+>Assigned to look into the "economics" of cryptocurrency and found my initial
+> information through a youtube video by economics explained. In this video
+> cryptocurrency is broken down into subgrades and completely graded as a
+> universal currency. What I took from this video and further research I did
+> was the negative connotation crypto had when looking from an economics point
+> of view.
+> I also did research into the individual Vitalik Buterin who would become my
+> next weeks research topic.
 
 [Research 3](./research3.pdf).
 
