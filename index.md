@@ -69,9 +69,9 @@ layout: default
 # WebSite
 * * *
 
-[Website](http://zephyr-dev.herokuapp.com/).
+## [Website](http://zephyr-dev.herokuapp.com/).
 
-[Website Github](https://github.com/ZephyrNanotransaction/Nanotransaction_Website).
+## [Website Github](https://github.com/ZephyrNanotransaction/Nanotransaction_Website).
 
 
 
