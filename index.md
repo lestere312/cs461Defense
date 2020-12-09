@@ -3,12 +3,6 @@ layout: default
 ---
 
 
-# Resume
-* * *
-[Resume](./Resume.pdf)
-
-
-
 
 
 # MileStones
@@ -66,40 +60,6 @@ layout: default
 >sdfsdf
 
 
-# Work by Week
-* * *
-
-1.  Analyzing Projects
-2.  [Milestone1](./Milestone1.pdf).(PDF)
-3.  Forming Team
-4.  _
-5.  [Milestone2](https://docs.google.com/document/d/1B82dB6rPXMC3dKqDq5iS3Ek_2H6csvGiNURLtLO_BuQ/edit?usp=sharing).(GoogleDoc), [Research 1](https://docs.google.com/document/d/1z40uNi9uEBOa_cpkDZtH6WBWq85awPQIfwilGruqMTA/edit?usp=sharing).(GoogleDoc)
-6.  [Research 2](https://docs.google.com/document/d/1tJAkROWImookej_sDUiQ6TN6QDxwqbNeyRH02KlGsuA/edit?usp=sharing).(GoogleDoc)
-7.  [Research 3](https://docs.google.com/document/d/1I_m_I4wJfTXYx8keZge_PhEK2N35kuvvpB799RRqFIk/edit?usp=sharing).(GoogleDoc)
-8.  [Research 4](https://docs.google.com/document/d/1HD53NVPIw9FPdlVEj7f-Obwp94ozukaTGKnWgrsyou0/edit?usp=sharing).(GoogleDoc)
-9.  Group Presentation
-10. Fall Term Retrospective
-
-
-# WebSite
-* * *
-
-## [Website](http://zephyr-dev.herokuapp.com/).
-
-## [Website Github](https://github.com/ZephyrNanotransaction/Nanotransaction_Website).
-
-
-# Team Reviews
-* * *
-
-### [Review1](./Lester_survey.pdf)
-
-### [Review2](./Eric_Lester_Critique.pdf)
-
-### [Review3](./EL_Peer_Review_KE.pdf)
-
-### Average Score : 8.33
-
 # Team Role
 
 > I primarily did research having to do with business and economic aspects of
@@ -119,4 +79,42 @@ layout: default
 > possible architectures to use. We have agreed on a node application with other
 > infrastructure to enhance its usability. Over the break we are to look into
 > possible frameworks and learn more about good implementation of our kind of
-> project.
+> project. We will use user stories we have created to guide our future research.
+
+
+# Work by Week
+* * *
+
+1.  Analyzing Projects
+2.  [Milestone1](./Milestone1.pdf).(PDF)
+3.  Forming Team
+4.  _
+5.  [Milestone2](https://docs.google.com/document/d/1B82dB6rPXMC3dKqDq5iS3Ek_2H6csvGiNURLtLO_BuQ/edit?usp=sharing).(GoogleDoc), [Research 1](https://docs.google.com/document/d/1z40uNi9uEBOa_cpkDZtH6WBWq85awPQIfwilGruqMTA/edit?usp=sharing).(GoogleDoc)
+6.  [Research 2](https://docs.google.com/document/d/1tJAkROWImookej_sDUiQ6TN6QDxwqbNeyRH02KlGsuA/edit?usp=sharing).(GoogleDoc)
+7.  [Research 3](https://docs.google.com/document/d/1I_m_I4wJfTXYx8keZge_PhEK2N35kuvvpB799RRqFIk/edit?usp=sharing).(GoogleDoc)
+8.  [Research 4](https://docs.google.com/document/d/1HD53NVPIw9FPdlVEj7f-Obwp94ozukaTGKnWgrsyou0/edit?usp=sharing).(GoogleDoc)
+9.  Group Presentation
+10. Fall Term Retrospective
+
+# Resume
+* * *
+[Resume](./Resume.pdf)
+
+# WebSite
+* * *
+
+## [Website](http://zephyr-dev.herokuapp.com/).
+
+## [Website Github](https://github.com/ZephyrNanotransaction/Nanotransaction_Website).
+
+
+# Team Reviews
+* * *
+
+### [Review1](./Lester_survey.pdf)
+
+### [Review2](./Eric_Lester_Critique.pdf)
+
+### [Review3](./EL_Peer_Review_KE.pdf)
+
+### Average Score : 8.33
