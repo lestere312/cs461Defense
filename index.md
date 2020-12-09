@@ -66,15 +66,6 @@ layout: default
 >sdfsdf
 
 
-# WebSite
-* * *
-
-## [Website](http://zephyr-dev.herokuapp.com/).
-
-## [Website Github](https://github.com/ZephyrNanotransaction/Nanotransaction_Website).
-
-
-
 # Work by Week
 * * *
 
@@ -88,3 +79,11 @@ layout: default
 8.  [Research 4](https://docs.google.com/document/d/1HD53NVPIw9FPdlVEj7f-Obwp94ozukaTGKnWgrsyou0/edit?usp=sharing).(GoogleDoc)
 9.  Group Presentation
 10. Future Goals
+
+
+# WebSite
+* * *
+
+## [Website](http://zephyr-dev.herokuapp.com/).
+
+## [Website Github](https://github.com/ZephyrNanotransaction/Nanotransaction_Website).
