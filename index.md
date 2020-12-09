@@ -14,13 +14,13 @@ layout: default
 # MileStones
 * * *
 
-##[Milestone1](./Milestone1.pdf).
+## [Milestone1](./Milestone1.pdf).
 
 >Explaining three different options I put on the top of my application
 >list. I brain stormed the stakeholders and perceived and unperceived
 >challenges the project may have.
 
-##[Milestone2](./Milestone2.pdf).
+## [Milestone2](./Milestone2.pdf).
 
 >dsdgsdf
 
@@ -29,7 +29,7 @@ layout: default
 # Research
 * * *
 
-##[Research 1](./research1.pdf).
+## [Research 1](./research1.pdf).
 
 >Was assigned to looking into different cryptocurrencies and wrote this research
 > specifically on Limitless VIP and Maker DAO. This was a good introduction
@@ -39,7 +39,7 @@ layout: default
 > types of blockchains for functionality like stable coins and coins that holder
 > voting rights towards future decisions.
 
-##[Research 2](./research2.pdf).
+## [Research 2](./research2.pdf).
 
 >Assigned to look into the "economics" of cryptocurrency and found my initial
 > information through a youtube video by economics explained. In this video
@@ -50,7 +50,7 @@ layout: default
 > I also did research into the individual Vitalik Buterin who would become my
 > next weeks research topic.
 
-##[Research 3](./research3.pdf).
+## [Research 3](./research3.pdf).
 
 >Vitalik Buterin created ether and Ethereum and is the singular public figure
 > that has created and maintained a successful cryptocurrency. The creator of
@@ -61,7 +61,7 @@ layout: default
 > hard to come by in this field so listening to his outlook for the future
 > is insightful.
 
-##[Research 4](./research4.pdf).
+## [Research 4](./research4.pdf).
 
 >sdfsdf
 
