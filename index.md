@@ -87,3 +87,15 @@ layout: default
 ## [Website](http://zephyr-dev.herokuapp.com/).
 
 ## [Website Github](https://github.com/ZephyrNanotransaction/Nanotransaction_Website).
+
+
+# Team Reviews
+* * *
+
+## [Review1](./Lester_survey.pdf)
+
+## [Review2](./Eric_Lester_Critique.pdf)
+
+## [Review3](./EL_Peer_Review_KE.pdf)
+
+## Average Score : 8.33
