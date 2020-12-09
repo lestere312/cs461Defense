@@ -31,7 +31,13 @@ layout: default
 
 [Research 1](./research1.pdf).
 
->sdfsdf
+>Was assigned to looking into different cryptocurrencies and wrote this research
+> specifically on Limitless VIP and Maker DAO. This was a good introduction
+> into the business and technically aspects of blockchain. Limitless VIP was
+> essentially a scam, which was a good example of what many think of this
+> sector. Maker DAO on the other hand was an interesting ecosystem of different
+> types of blockchains for functionality like stable coins and coins that holder
+> voting rights towards future decisions.
 
 [Research 2](./research2.pdf).
 
