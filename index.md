@@ -64,6 +64,17 @@ layout: default
 > research to be on alternative ideas for blockchain projects. This document
 > contains both my critiques and my alternative idea.
 
+# Group Presentation
+* * *
+
+## [Presentation](./DesignReview.pdf)
+
+> We did not receive any non-verbal feed back from our reviewees and limited
+> feed back even verbally. I think this is due to our project being outside
+> the scope of many peoples understanding of blockchain. Since our project still
+> used blockchain technology at this point there was not a lot of helpful
+> insight from other teams.
+
 
 # Team Role
 
