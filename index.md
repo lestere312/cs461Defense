@@ -8,13 +8,13 @@ layout: default
 # MileStones
 * * *
 
-## [Milestone1](./Milestone1.pdf).
+## [Milestone 1](./Milestone1.pdf).
 
 >Explaining three different options I put on the top of my application
 >list. I brain stormed the stakeholders and perceived and unperceived
 >challenges the project may have.
 
-## [Milestone2](./Milestone2.pdf).
+## [Milestone 2](./Milestone2.pdf).
 
 > A comprehensive outline of challenges and goals for our project at the time
 > of writing it. Though some of the scope and technical aspects of the project
