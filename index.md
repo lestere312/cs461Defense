@@ -115,7 +115,7 @@ layout: default
 2.  [Milestone1](./Milestone1.pdf).(PDF)
 3.  Forming Team
 4.  Forming Team(first team meeting)
-5.  [Milestone2](./Milestone2.pdf).(GoogleDoc), [Research 1](./research1.pdf).
+5.  [Milestone2](./Milestone2.pdf), [Research 1](./research1.pdf).
 6.  [Research 2](./research2.pdf).
 7.  [Research 3](./research3.pdf).
 8.  [Research 4](./research4.pdf).
@@ -144,3 +144,4 @@ layout: default
 ### [Review3](./EL_Peer_Review_KE.pdf)
 
 ### Average Score : 8.33
+All expectations at least met.
