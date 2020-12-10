@@ -69,7 +69,7 @@ layout: default
 
 ## [Presentation](./DesignReview.pdf)
 
-> We did not receive any non-verbal feed back from our reviewees and limited
+> We did not receive any non-verbal feed back from our reviewers and limited
 > feed back even verbally. I think this is due to our project being outside
 > the scope of many peoples understanding of blockchain. Since our project still
 > used blockchain technology at this point there was not a lot of helpful
@@ -112,13 +112,13 @@ layout: default
 * * *
 
 1.  Analyzing Projects
-2.  [Milestone1](./Milestone1.pdf).
+2.  [Milestone1](./Milestone1.pdf)
 3.  Forming Team
 4.  Forming Team(first team meeting)
-5.  [Milestone2](./Milestone2.pdf), [Research 1](./research1.pdf).
-6.  [Research 2](./research2.pdf).
-7.  [Research 3](./research3.pdf).
-8.  [Research 4](./research4.pdf).
+5.  [Milestone2](./Milestone2.pdf), [Research 1](./research1.pdf)
+6.  [Research 2](./research2.pdf)
+7.  [Research 3](./research3.pdf)
+8.  [Research 4](./research4.pdf)
 9.  [Presentation](./DesignReview.pdf)
 10. [Retrospective](./TermRetrospective.pdf)
 
@@ -129,9 +129,9 @@ layout: default
 # WebSite
 * * *
 
-## [Website](http://zephyr-dev.herokuapp.com/).
+## [Website](http://zephyr-dev.herokuapp.com/)
 
-## [Website Github](https://github.com/ZephyrNanotransaction/Nanotransaction_Website).
+## [Website Github](https://github.com/ZephyrNanotransaction/Nanotransaction_Website)
 
 
 # Team Reviews
@@ -144,4 +144,4 @@ layout: default
 ### [Review3](./EL_Peer_Review_KE.pdf)
 
 ### Average Score : 8.33
-All expectations at least met.
+All expectations at least met by each reviewer.
