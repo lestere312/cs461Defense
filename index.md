@@ -77,6 +77,7 @@ layout: default
 
 
 # Team Role
+* * *
 
 > I primarily did research having to do with business and economic aspects of
 > our project since I saw those decisions needed to be made before moving forward
