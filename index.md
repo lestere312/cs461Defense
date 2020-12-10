@@ -75,6 +75,15 @@ layout: default
 > used blockchain technology at this point there was not a lot of helpful
 > insight from other teams.
 
+# Term Retrospective
+* * *
+
+## [Retrospective](./TermRetrospective.pdf)
+
+> With out project goal changing we were able deliver our website as well as
+> create future goals that give as a good look at how we will move forward.
+> The website will be essential to displaying future work he have done and
+> allow us to communicate our goals and progress.
 
 # Team Role
 * * *
@@ -110,7 +119,7 @@ layout: default
 6.  [Research 2](https://docs.google.com/document/d/1tJAkROWImookej_sDUiQ6TN6QDxwqbNeyRH02KlGsuA/edit?usp=sharing).(GoogleDoc)
 7.  [Research 3](https://docs.google.com/document/d/1I_m_I4wJfTXYx8keZge_PhEK2N35kuvvpB799RRqFIk/edit?usp=sharing).(GoogleDoc)
 8.  [Research 4](https://docs.google.com/document/d/1HD53NVPIw9FPdlVEj7f-Obwp94ozukaTGKnWgrsyou0/edit?usp=sharing).(GoogleDoc)
-9.  Group Presentation
+9.  [Presentation](./DesignReview.pdf)
 10. Fall Term Retrospective
 
 # Resume
