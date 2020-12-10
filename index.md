@@ -1,8 +1,6 @@
 ---
 layout: default
-<title>
-  {{ page.title }}
-</title>
+title: Portfolio                                     
 ---
 
 
