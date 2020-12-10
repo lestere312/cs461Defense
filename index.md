@@ -112,7 +112,7 @@ layout: default
 * * *
 
 1.  Analyzing Projects
-2.  [Milestone1](./Milestone1.pdf).(PDF)
+2.  [Milestone1](./Milestone1.pdf).
 3.  Forming Team
 4.  Forming Team(first team meeting)
 5.  [Milestone2](./Milestone2.pdf), [Research 1](./research1.pdf).
@@ -120,7 +120,7 @@ layout: default
 7.  [Research 3](./research3.pdf).
 8.  [Research 4](./research4.pdf).
 9.  [Presentation](./DesignReview.pdf)
-10. Fall Term Retrospective
+10. [Retrospective](./TermRetrospective.pdf)
 
 # Resume
 * * *
