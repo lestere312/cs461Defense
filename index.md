@@ -34,7 +34,7 @@ title: Portfolio                                     .
 # Python Data Visualization NCAA Tournament
 
 
->Making a dat visualization from 30 years of NCAA tournament
+>Making a data visualization from 30 years of NCAA tournament
 >data through a python script.
 
 ## [Github](https://github.com/lestere312/python-NCAA)
