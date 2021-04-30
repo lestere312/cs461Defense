@@ -7,6 +7,9 @@ title: Portfolio                                     .
 # Steam News Android Application
 * * *
 
+>An application on android that allows you to favorite
+>steam games and see relevant news from those games.
+
 ## [Github](https://github.com/osu-cs492-w21/final-project-team-4)
 * * *
 # ZephyrNanotransaction Project
@@ -28,7 +31,11 @@ title: Portfolio                                     .
 
 
 * * *
-# Python Data Visualization NCAA Tournament 
+# Python Data Visualization NCAA Tournament
 * * *
 
+>Making a dat visualization from 30 years of NCAA tournament
+>data through a python script.
+
 ## [Github](https://github.com/lestere312/python-NCAA)
+* * *
