@@ -3,12 +3,12 @@ layout: default
 title: Portfolio                                     .
 ---
 
-
+* * *
 # Steam News Android Application
 * * *
 
 ## [Github](https://github.com/osu-cs492-w21/final-project-team-4)
-
+* * *
 # ZephyrNanotransaction Project
 * * *
 
@@ -27,7 +27,7 @@ title: Portfolio                                     .
 ## [Gitlab Repos](https://gitlab.com/zephyr-payments)
 
 
-
+* * *
 # MileStones
 * * *
 
